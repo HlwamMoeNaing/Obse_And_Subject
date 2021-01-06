@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "Obse_And_Subject"
